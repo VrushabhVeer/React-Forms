@@ -1,0 +1,51 @@
+.form {
+    width: 28%;
+    border: 1px solid;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    padding: 30px;
+}
+
+.form div {
+    margin-bottom: 20px;
+}
+
+.input {
+    width: 93%;
+    padding: 10px;
+}
+
+.select {
+    width: 45%;
+    padding: 8px;
+}
+
+button {
+    width: 45%;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    color: white;
+    background-color: #282c34;
+}
+
+.address {
+    width: 93%;
+    padding: 10px;
+    height: 60px;
+}
+
+button:hover{
+    background-color: #404858;
+}
+
+textarea {
+    width: 93%;
+    padding: 10px;
+}
+
+.file {
+    margin-bottom: 20px;
+}
